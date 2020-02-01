@@ -7,7 +7,23 @@ body {
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
-
+.lastlasttext{
+margin-left:5%;
+width: 1500px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+}
+.videos {
+  top: 800px;
+  margin-left:5%;
+  left: 2500px;
+  width: 1500px;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;/*set to a negative number 1/2 of your width*/
+}
 .popup {
   display: flex;
   align-items: center;
